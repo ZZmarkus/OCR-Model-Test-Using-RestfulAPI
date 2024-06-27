@@ -1,1 +1,1 @@
-# ZZmarkus-OCR-ModelTest-Using-RestfulAPI
+# OCR-ModelTest-Using-RestfulAPI
